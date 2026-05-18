@@ -1,4 +1,4 @@
-class MergeSort {
+ class MergeSort {
 
     void merge(int arr[], int left, int mid, int right) {
 
